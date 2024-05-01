@@ -24,7 +24,7 @@
   <a href="mailto:abdullahyusha999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/abdullah-yusha-672a43205/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-yusha-b96377166/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
